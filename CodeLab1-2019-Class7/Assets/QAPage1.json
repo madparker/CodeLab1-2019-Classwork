@@ -1,0 +1,8 @@
+{
+    "pageNumber": 1,
+    "questionText": "You come to a fork in the road.\n Do you go left or right?",
+    "option1Text": "left",
+    "option2Text": "right",
+    "option1Page": 2,
+    "option2Page": 3
+}
