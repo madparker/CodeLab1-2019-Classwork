@@ -13,8 +13,6 @@ public class Rotate : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(Vector3.forward);
-        
-        
+        transform.Rotate(Vector3.forward);  //Rotate the gameObject around it's forward axis
     }
 }

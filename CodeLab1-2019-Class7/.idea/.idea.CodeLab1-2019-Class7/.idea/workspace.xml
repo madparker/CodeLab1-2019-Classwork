@@ -47,7 +47,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/QAManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="195">
               <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
               <folding>
                 <marker date="1554489951370" expanded="false" signature="6:117" ph="..." />
@@ -99,12 +99,12 @@
     </navigator>
     <panes>
       <pane id="AssemblyExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -155,6 +155,7 @@
       <updated>1554140510037</updated>
       <workItem from="1554140513372" duration="7962000" />
       <workItem from="1555519037180" duration="90000" />
+      <workItem from="1556028196013" duration="136000" />
     </task>
     <task id="LOCAL-00001" summary="Added More Projects">
       <created>1555519098678</created>
@@ -163,11 +164,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555519098678</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Vector Math Project">
+      <created>1556028273107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556028273107</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8052000" />
+    <option name="totallyTimeSpent" value="8188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,7 +189,7 @@
   <component name="ToolWindowManager">
     <frame x="211" y="41" width="1080" height="659" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25433525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -216,7 +224,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added More Projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added More Projects" />
+    <MESSAGE value="Added Vector Math Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Vector Math Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -260,7 +269,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/QAManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="195">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
           <folding>
             <marker date="1554489951370" expanded="false" signature="6:117" ph="..." />
