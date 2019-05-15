@@ -1,0 +1,30 @@
+[
+    {
+        "locationNum": 1,
+        "storyText": "Home\nThis is your home.\nThere is no place like it.",
+        "n": 3,
+        "s": 4,
+        "e": 5,
+        "w": 2
+    },
+    {
+        "locationNum": 2,
+        "storyText": "Cave\nThere's a cave in front of you.\nIt's pretty scary.",
+        "e": 1
+    },
+    {
+        "locationNum": 3,
+        "storyText": "Forest\nThe deep dark wood.\nBeware the Gruffalo!",
+        "s": 1
+    },
+    {
+        "locationNum": 4,
+        "storyText": "Pond.\nAh, that's nice.\nMaybe you should hang out here for a bit.",
+        "n": 1
+    },
+    {
+        "locationNum": 5,
+        "storyText": "Cliff\nIt's a long way down.\nAre you afraid of heights?",
+        "w": 1
+    }
+]

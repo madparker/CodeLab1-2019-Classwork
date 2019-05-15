@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b55bb640-9b2f-4d59-b543-63fc175bb0dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CodeLab-2019-Week10-VectorMaths/.idea/.idea.CodeLab-2019-Week10-VectorMaths/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLab-2019-Week10-VectorMaths/.idea/.idea.CodeLab-2019-Week10-VectorMaths/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLab-2019-Week5-/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLab-2019-Week5-/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLab-2019-Week5-/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLab-2019-Week5-/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLab1-2019-Class5-Files/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLab1-2019-Class5-Files/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeLab1-2019-Class5-Files/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeLab1-2019-Class5-Files/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Zork.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1500">
+              <caret line="105" column="121" selection-start-line="105" selection-start-column="121" selection-end-line="105" selection-end-column="121" />
+              <folding>
+                <marker date="1557851612602" expanded="false" signature="6:135" ph="..." />
+                <marker date="1557851612602" expanded="true" signature="211:3903" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="910:1332" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="1418:2190" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="2268:3263" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="2531:2589" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="2642:2699" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="2757:2815" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="2828:2885" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="2943:3001" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3014:3071" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3129:3187" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3200:3257" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3351:3901" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3513:3584" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3606:3677" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3699:3770" ph="{...}" />
+                <marker date="1557851612602" expanded="true" signature="3792:3863" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ZorkNode.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="3" column="86" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+              <folding>
+                <marker date="1557851642724" expanded="false" signature="6:59" ph="..." />
+                <marker date="1557851642724" expanded="true" signature="147:772" ph="{...}" />
+                <marker date="1557851642724" expanded="true" signature="355:446" ph="{...}" />
+                <marker date="1557851642724" expanded="true" signature="501:588" ph="{...}" />
+                <marker date="1557851642724" expanded="true" signature="683:770" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ZorkNav.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QANode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoxSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Zork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QAManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoxPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BulletPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ZorkNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JSON Tests/CSharp/Test_CSharp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/QAPage1.json" />
+        <option value="$PROJECT_DIR$/Assets/QABook.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bullet.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BulletPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CubeControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QAManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QANode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Zork.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ZorkNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/ZorkNav.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="262" />
+    <option name="y" value="74" />
+    <option name="width" value="1285" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SearchEverywhereConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="ClassSearchEverywhereContributor" />
+      <filtered-out-file-type name="FileSearchEverywhereContributor" />
+      <filtered-out-file-type name="SymbolSearchEverywhereContributor" />
+      <filtered-out-file-type name="ActionSearchEverywhereContributor" />
+      <filtered-out-file-type name="YAMLKeysSearchEverywhereContributor" />
+    </file-type-list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b55bb640-9b2f-4d59-b543-63fc175bb0dc" name="Default Changelist" comment="" />
+      <created>1557768756179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557768756179</updated>
+      <workItem from="1557768760331" duration="5310000" />
+      <workItem from="1557774741842" duration="7213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12523000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="262" y="74" width="1285" height="810" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21802092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32919255" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32958803" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2377193" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32919255" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32958803" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/QAPage2.json" />
+    <entry file="file://$PROJECT_DIR$/Assets/QAPage1.json" />
+    <entry file="file://$PROJECT_DIR$/Assets/JSON Tests/UnityScript/Test_UnityScript.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/JSON Tests/CSharp/Test_CSharp.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-line="1" selection-end-column="17" />
+          <folding>
+            <marker date="1356832234000" expanded="true" signature="6:36" ph="..." />
+            <marker date="1356832234000" expanded="true" signature="72:2452" ph="{...}" />
+            <marker date="1356832234000" expanded="true" signature="178:221" ph="{...}" />
+            <marker date="1356832234000" expanded="true" signature="239:2223" ph="{...}" />
+            <marker date="1356832234000" expanded="true" signature="2241:2315" ph="{...}" />
+            <marker date="1356832234000" expanded="true" signature="2329:2450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/QABook.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoxSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <marker date="1557779239368" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557779239368" expanded="true" signature="119:524" ph="{...}" />
+            <marker date="1557779239368" expanded="true" signature="253:364" ph="{...}" />
+            <marker date="1557779239368" expanded="true" signature="422:443" ph="{...}" />
+            <marker date="1557779239368" expanded="true" signature="461:522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Bullet.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="25" column="108" selection-start-line="25" selection-start-column="108" selection-end-line="25" selection-end-column="108" />
+          <folding>
+            <marker date="1557779321825" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557779321825" expanded="true" signature="115:678" ph="{...}" />
+            <marker date="1557779321825" expanded="true" signature="219:240" ph="{...}" />
+            <marker date="1557779321825" expanded="true" signature="298:511" ph="{...}" />
+            <marker date="1557779321825" expanded="true" signature="394:505" ph="{...}" />
+            <marker date="1557779321825" expanded="true" signature="555:676" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BulletPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="48" column="49" selection-start-line="48" selection-start-column="49" selection-end-line="48" selection-end-column="49" />
+          <folding>
+            <marker date="1557779508421" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557779508421" expanded="true" signature="119:1609" ph="{...}" />
+            <marker date="1557779508421" expanded="true" signature="352:795" ph="{...}" />
+            <marker date="1557779508421" expanded="true" signature="520:672" ph="{...}" />
+            <marker date="1557779508421" expanded="true" signature="685:789" ph="{...}" />
+            <marker date="1557779508421" expanded="true" signature="868:984" ph="{...}" />
+            <marker date="1557779508421" expanded="true" signature="1061:1607" ph="{...}" />
+            <marker date="1557779508421" expanded="true" signature="1196:1381" ph="{...}" />
+            <marker date="1557779508421" expanded="true" signature="1430:1550" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="62" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <marker date="1557779591981" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557779591981" expanded="true" signature="120:1130" ph="{...}" />
+            <marker date="1557779591981" expanded="true" signature="324:482" ph="{...}" />
+            <marker date="1557779591981" expanded="true" signature="540:684" ph="{...}" />
+            <marker date="1557779591981" expanded="true" signature="618:678" ph="{...}" />
+            <marker date="1557779591981" expanded="true" signature="709:1128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="45" column="95" selection-start-line="45" selection-start-column="95" selection-end-line="45" selection-end-column="95" />
+          <folding>
+            <marker date="1557779647560" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557779647560" expanded="true" signature="122:1195" ph="{...}" />
+            <marker date="1557779647560" expanded="true" signature="241:293" ph="{...}" />
+            <marker date="1557779647560" expanded="true" signature="351:761" ph="{...}" />
+            <marker date="1557779647560" expanded="true" signature="460:517" ph="{...}" />
+            <marker date="1557779647560" expanded="true" signature="568:624" ph="{...}" />
+            <marker date="1557779647560" expanded="true" signature="678:719" ph="{...}" />
+            <marker date="1557779647560" expanded="true" signature="779:1193" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BoxPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="47" />
+          <folding>
+            <marker date="1557770475313" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557770475313" expanded="true" signature="116:931" ph="{...}" />
+            <marker date="1557770475313" expanded="true" signature="249:318" ph="{...}" />
+            <marker date="1557770475313" expanded="true" signature="376:397" ph="{...}" />
+            <marker date="1557770475313" expanded="true" signature="429:929" ph="{...}" />
+            <marker date="1557770475313" expanded="true" signature="544:724" ph="{...}" />
+            <marker date="1557770475313" expanded="true" signature="744:899" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/QAManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="66" column="112" selection-start-line="66" selection-start-column="112" selection-end-line="66" selection-end-column="112" />
+          <folding>
+            <marker date="1557850610564" expanded="false" signature="6:135" ph="..." />
+            <marker date="1557850610564" expanded="true" signature="175:2406" ph="{...}" />
+            <marker date="1557850610564" expanded="true" signature="719:925" ph="{...}" />
+            <marker date="1557850610564" expanded="true" signature="988:1188" ph="{...}" />
+            <marker date="1557850610564" expanded="true" signature="1255:2141" ph="{...}" />
+            <marker date="1557850610564" expanded="true" signature="1347:1603" ph="{...}" />
+            <marker date="1557850610564" expanded="true" signature="2255:2404" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/QANode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="74" selection-start-line="3" selection-start-column="74" selection-end-line="3" selection-end-column="74" />
+          <folding>
+            <marker date="1557850646280" expanded="false" signature="6:59" ph="..." />
+            <marker date="1557850646280" expanded="true" signature="135:980" ph="{...}" />
+            <marker date="1557850646280" expanded="true" signature="412:562" ph="{...}" />
+            <marker date="1557850646280" expanded="true" signature="618:710" ph="{...}" />
+            <marker date="1557850646280" expanded="true" signature="806:978" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Zork.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="105" column="121" selection-start-line="105" selection-start-column="121" selection-end-line="105" selection-end-column="121" />
+          <folding>
+            <marker date="1557851612602" expanded="false" signature="6:135" ph="..." />
+            <marker date="1557851612602" expanded="true" signature="211:3903" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="910:1332" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="1418:2190" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="2268:3263" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="2531:2589" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="2642:2699" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="2757:2815" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="2828:2885" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="2943:3001" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3014:3071" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3129:3187" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3200:3257" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3351:3901" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3513:3584" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3606:3677" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3699:3770" ph="{...}" />
+            <marker date="1557851612602" expanded="true" signature="3792:3863" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ZorkNode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="86" selection-start-line="3" selection-start-column="86" selection-end-line="3" selection-end-column="86" />
+          <folding>
+            <marker date="1557851642724" expanded="false" signature="6:59" ph="..." />
+            <marker date="1557851642724" expanded="true" signature="147:772" ph="{...}" />
+            <marker date="1557851642724" expanded="true" signature="355:446" ph="{...}" />
+            <marker date="1557851642724" expanded="true" signature="501:588" ph="{...}" />
+            <marker date="1557851642724" expanded="true" signature="683:770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ZorkNav.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
